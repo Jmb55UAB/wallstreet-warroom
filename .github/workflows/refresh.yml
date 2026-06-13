@@ -1,0 +1,37 @@
+name: refresh-desk-data
+
+on:
+  schedule:
+    # ~every 30 min during US market hours (13:30-20:00 UTC ≈ 9:30-16:00 ET), Mon-Fri.
+    # GitHub cron is UTC and best-effort (may be delayed under load).
+    - cron: '0,30 13-20 * * 1-5'
+  workflow_dispatch: {}      # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-desk-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build data.json from live quotes
+        run: node scripts/build-data.js
+      - name: Commit if changed
+        run: |
+          git config user.name "wallstreet-desk-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "auto: refresh quotes $(date -u +%FT%TZ)"
+            git push
+          fi
