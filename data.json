@@ -1,0 +1,22 @@
+{
+  "updated": "Fri 06.12.2026 close (last desk sync)",
+  "account": { "value": "515.18", "cash": "139.93", "bp": "61.76", "realized": "+73", "wk1": "+3.0%" },
+  "positions": [
+    { "t": "INTC", "sym": "INTC", "qty": "0.4376", "avg": "114.25", "last": "124.54", "pl": "+9.0%", "cls": "up" },
+    { "t": "HOOD", "sym": "HOOD", "qty": "0.2883", "avg": "86.72", "last": "93.16", "pl": "+7.4%", "cls": "up" },
+    { "t": "NU", "sym": "NU", "qty": "2.5210", "avg": "11.90", "last": "12.19", "pl": "+2.4%", "cls": "up" },
+    { "t": "RGTI", "sym": "RGTI", "qty": "1.9418", "avg": "20.60", "last": "20.98", "pl": "+1.8%", "cls": "up" },
+    { "t": "SOFI", "sym": "SOFI", "qty": "2.4287", "avg": "16.47", "last": "16.59", "pl": "+0.7%", "cls": "up" },
+    { "t": "SPY", "sym": "SPY", "qty": "0.1018", "avg": "736.41", "last": "741.63", "pl": "+0.7%", "cls": "up" },
+    { "t": "NVDA", "sym": "NVDA", "qty": "0.2432", "avg": "205.56", "last": "205.14", "pl": "b/e", "cls": "flat" },
+    { "t": "AAL $16C 7/17", "sym": "AAL", "qty": "1 ct", "avg": "0.53", "last": "0.56", "pl": "+5.7%", "cls": "up", "chain": true }
+  ],
+  "closed": [
+    { "d": "BAC $55C 6/26 (manual, other acct)", "r": "+$68 (+37.4%)", "cls": "up" },
+    { "d": "RCAT $12C 6/19 sleeve", "r": "+$18 (+51%)", "cls": "up" },
+    { "d": "HOOD 1/2 trim @ $94.19", "r": "+$2.15 (+8.6%)", "cls": "up" },
+    { "d": "ITA shares (ceasefire abort)", "r": "+$1.02 (+2.0%)", "cls": "up" },
+    { "d": "XLF $53C 6/26 (thesis-dead cut)", "r": "-$16 (-29%)", "cls": "down" },
+    { "d": "NET REALIZED", "r": "+$73", "cls": "up", "net": true }
+  ]
+}
