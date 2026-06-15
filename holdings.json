@@ -32,5 +32,10 @@
     { "when": "WATCHLIST - AMD (following)", "body": "Tracking AMD (~$534, +4.5% Sun night). BofA target $560, named top CPU pick; Meta 6GW / MI450 deal; UK 2B-pound AI infra. Big catalyst: Advancing AI event 7/22-23. Too expensive for options at this account; expression = small FRACTIONAL starter on a PULLBACK, never the gap. No chase." },
     { "when": "WATCHLIST - PSKY", "body": "Paramount Skydance ~$10.47. DOJ cleared the $110B Warner Bros deal with no conditions. Next catalysts: EU merger decision 7/7, EU foreign-subsidy decision 7/14 (the ~$24B Gulf funding = wildcard). Cheap + optionable = weekly-sleeve candidate; defined-risk Aug $11/$12 call into the July dates, Timeout to size. Uncorrelated to the war book." },
     { "when": "FOMC WED 6/17", "body": "Main mid-week card. 2nd $75 SPY core tranche planned AFTER the statement. No new options pre-FOMC unless AAL exits first." }
+  ],
+  "watch": [
+    { "sym": "AMD", "note": "AI long. BUY-ZONE $470-490 on a pullback (fractional ~$40, never the gap). POSITION INTO Advancing AI 7/22-23; trim BEFORE the event (sell-the-news risk). PT chatter $560-665." },
+    { "sym": "PSKY", "note": "Merger re-rate. DOJ cleared $110B WBD deal. Defined-risk Aug $11/$12 call (Timeout). Catalysts: EU 7/7 + 7/14. Weekly-sleeve candidate, uncorrelated to the book." },
+    { "sym": "LMT", "note": "WATCH ONLY. Record contracts (~$10B/2wks) but tape rejects them; peace = headwind; $540 too big for the account. Re-look only if peace collapses (then ITA, not LMT)." }
   ]
 }
