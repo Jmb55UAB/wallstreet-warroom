@@ -2,8 +2,8 @@
   "_comment": "DESK SOURCE OF TRUTH. Edit this when the book changes; the GitHub Action recomputes data.json with live prices on a schedule. Equity values are auto-priced from Yahoo; cash/buying_power/realized/options are desk-set; briefs are desk posts.",
   "desk_updated": "Fri 6/12 close",
   "start_capital": 500,
-  "cash": 139.93,
-  "buying_power": 61.76,
+  "cash": 90.55,
+  "buying_power": 90.55,
   "realized": "+73",
   "positions": [
     { "sym": "INTC", "qty": 0.437637, "avg": 114.25 },
