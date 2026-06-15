@@ -2,8 +2,8 @@
   "_comment": "DESK SOURCE OF TRUTH. Edit this when the book changes; the GitHub Action recomputes data.json with live prices on a schedule. Equity values are auto-priced from Yahoo; cash/buying_power/realized/options are desk-set; briefs are desk posts.",
   "desk_updated": "Fri 6/12 close",
   "start_capital": 500,
-  "cash": 170.55,
-  "buying_power": 90.55,
+  "cash": 113.55,
+  "buying_power": 33.55,
   "realized": "+73",
   "positions": [
     { "sym": "INTC", "qty": 0.437637, "avg": 114.25 },
@@ -14,7 +14,9 @@
     { "sym": "SPY",  "qty": 0.101845, "avg": 736.41 },
     { "sym": "NVDA", "qty": 0.243237, "avg": 205.56 }
   ],
-  "options": [],
+  "options": [
+    { "t": "PSKY $11C 8/21", "sym": "PSKY", "qty": "1 ct", "avg": "0.57", "last": "0.57", "pl": "b/e", "cls": "flat", "chain": true, "value": 57 }
+  ],
   "closed": [
     { "d": "BAC $55C 6/26 (manual, other acct)", "r": "+$68 (+37.4%)", "cls": "up" },
     { "d": "RCAT $12C 6/19 sleeve", "r": "+$18 (+51%)", "cls": "up" },
@@ -26,7 +28,7 @@
   ],
   "briefs": [
     { "when": "PEACE DEAL REACHED 6/14", "body": "US-Iran deal reached; formal signing ceremony Thu 6/19 (Switzerland). Oil sanctions lifted + Hormuz reopens within 30 days = oil down, inflation relief, RISK-ON. Book gapped green Sunday night (INTC +3.6%, RGTI +5.4%, HOOD +3.6%, NVDA +2.3%, AMD +4.5%). Energy stays BANNED - oil is the loser here." },
-    { "when": "AAL $16C 7/17 - MONDAY PLAN", "body": "Peace trade is live: AAL gapped ~+4% to ~$15.58 (now near the $16 strike). We hold ONE contract (cost $0.53), so it is SELL-ALL or HOLD - no half-trim possible. TIMEOUT the live chain at the open. Desk lean: SELL into Monday's open pop toward the $0.85-1.05 zone (~+60-90%); do NOT round-trip it through FOMC 6/17 + the sell-the-news risk on the 6/19 signing. NOTE: $0.56 was Friday's mark, NOT a sell target - the call should be worth more after the gap." },
+    { "when": "SLEEVE: PSKY $11C 8/21 (LIVE)", "body": "Bought 1 contract @ $0.57 ($57, max risk = premium). Merger re-rate play, UNCORRELATED to the Fed. Catalysts: WBD tender 7/1, EU merger 7/7, EU subsidy 7/14. TP $1.05-1.30 (+60-100%) into a clean-EU pop; CUT -50% (~$0.28) or on a deal-block / EU-Phase-2 headline; manage around the July dates - don't hold blindly through a binary. (AAL $16C sold same day +51%.)" },
     { "when": "TRAILING STOPS RAISED", "body": "Into a gap-up we protect gains, we do not chase. New stops: HOOD $90 (was 86.75), INTC $122 (was 114.25), RGTI $20.60 breakeven (was 19.00), NVDA $200 (was 189), NU $11.50 (was 10.95), SOFI $15.15 hold. SPY core never auto-sold. These are regular-hours levels; Sunday-night gaps can fade at the open." },
     { "when": "WATCHLIST - AMD (following)", "body": "Tracking AMD (~$534, +4.5% Sun night). BofA target $560, named top CPU pick; Meta 6GW / MI450 deal; UK 2B-pound AI infra. Big catalyst: Advancing AI event 7/22-23. Too expensive for options at this account; expression = small FRACTIONAL starter on a PULLBACK, never the gap. No chase." },
     { "when": "WATCHLIST - PSKY", "body": "Paramount Skydance ~$10.47. DOJ cleared the $110B Warner Bros deal with no conditions. Next catalysts: EU merger decision 7/7, EU foreign-subsidy decision 7/14 (the ~$24B Gulf funding = wildcard). Cheap + optionable = weekly-sleeve candidate; defined-risk Aug $11/$12 call into the July dates, Timeout to size. Uncorrelated to the war book." },
