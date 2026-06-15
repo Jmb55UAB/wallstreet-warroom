@@ -2,7 +2,7 @@
   "_comment": "DESK SOURCE OF TRUTH. Edit this when the book changes; the GitHub Action recomputes data.json with live prices on a schedule. Equity values are auto-priced from Yahoo; cash/buying_power/realized/options are desk-set; briefs are desk posts.",
   "desk_updated": "Fri 6/12 close",
   "start_capital": 500,
-  "cash": 90.55,
+  "cash": 170.55,
   "buying_power": 90.55,
   "realized": "+73",
   "positions": [
@@ -14,16 +14,15 @@
     { "sym": "SPY",  "qty": 0.101845, "avg": 736.41 },
     { "sym": "NVDA", "qty": 0.243237, "avg": 205.56 }
   ],
-  "options": [
-    { "t": "AAL $16C 7/17", "sym": "AAL", "qty": "1 ct", "avg": "0.53", "last": "0.56", "pl": "+5.7%", "cls": "up", "chain": true, "value": 56 }
-  ],
+  "options": [],
   "closed": [
     { "d": "BAC $55C 6/26 (manual, other acct)", "r": "+$68 (+37.4%)", "cls": "up" },
     { "d": "RCAT $12C 6/19 sleeve", "r": "+$18 (+51%)", "cls": "up" },
     { "d": "HOOD 1/2 trim @ $94.19", "r": "+$2.15 (+8.6%)", "cls": "up" },
     { "d": "ITA shares (ceasefire abort)", "r": "+$1.02 (+2.0%)", "cls": "up" },
     { "d": "XLF $53C 6/26 (thesis-dead cut)", "r": "-$16 (-29%)", "cls": "down" },
-    { "d": "NET REALIZED", "r": "+$73", "cls": "up", "net": true }
+    { "d": "AAL $16C 7/17 (peace trade)", "r": "+$27 (+51%)", "cls": "up" },
+    { "d": "NET REALIZED", "r": "+$100", "cls": "up", "net": true }
   ],
   "briefs": [
     { "when": "PEACE DEAL REACHED 6/14", "body": "US-Iran deal reached; formal signing ceremony Thu 6/19 (Switzerland). Oil sanctions lifted + Hormuz reopens within 30 days = oil down, inflation relief, RISK-ON. Book gapped green Sunday night (INTC +3.6%, RGTI +5.4%, HOOD +3.6%, NVDA +2.3%, AMD +4.5%). Energy stays BANNED - oil is the loser here." },
