@@ -1,5 +1,5 @@
 {
-  "updated": "LIVE 06/13, 12:18 PM ET (auto)",
+  "updated": "LIVE 06/14, 11:23 PM ET (auto)",
   "account": {
     "value": "514.50",
     "cash": "139.93",
@@ -117,16 +117,28 @@
   ],
   "briefs": [
     {
-      "when": "MON 6/15 SCRIPT",
-      "body": "Two-sided weekend binary. IF the Iran deal is SIGNED: sell AAL $16C into the 2nd push ($0.85-1.05), MU starter $35-40, energy stays banned, HOOD re-add waits for FOMC. IF it slips/dies: cut AAL at the open bid, drones whipsaw back (no chase), honor every stop."
+      "when": "PEACE DEAL REACHED 6/14",
+      "body": "US-Iran deal reached; formal signing ceremony Thu 6/19 (Switzerland). Oil sanctions lifted + Hormuz reopens within 30 days = oil down, inflation relief, RISK-ON. Book gapped green Sunday night (INTC +3.6%, RGTI +5.4%, HOOD +3.6%, NVDA +2.3%, AMD +4.5%). Energy stays BANNED - oil is the loser here."
     },
     {
-      "when": "STOPS ARMED",
-      "body": "HOOD 86.75 (b/e) - INTC 114.25 (b/e) - RGTI 19.00 - SOFI 15.15 - NU 10.95 - NVDA 189.00 - SPY core never auto-sold. AAL $16C is alert-only (cut at $0.26 or deal-collapse)."
+      "when": "AAL $16C 7/17 - MONDAY PLAN",
+      "body": "Peace trade is live: AAL gapped ~+4% to ~$15.58 (now near the $16 strike). We hold ONE contract (cost $0.53), so it is SELL-ALL or HOLD - no half-trim possible. TIMEOUT the live chain at the open. Desk lean: SELL into Monday's open pop toward the $0.85-1.05 zone (~+60-90%); do NOT round-trip it through FOMC 6/17 + the sell-the-news risk on the 6/19 signing. NOTE: $0.56 was Friday's mark, NOT a sell target - the call should be worth more after the gap."
+    },
+    {
+      "when": "TRAILING STOPS RAISED",
+      "body": "Into a gap-up we protect gains, we do not chase. New stops: HOOD $90 (was 86.75), INTC $122 (was 114.25), RGTI $20.60 breakeven (was 19.00), NVDA $200 (was 189), NU $11.50 (was 10.95), SOFI $15.15 hold. SPY core never auto-sold. These are regular-hours levels; Sunday-night gaps can fade at the open."
+    },
+    {
+      "when": "WATCHLIST - AMD (following)",
+      "body": "Tracking AMD (~$534, +4.5% Sun night). BofA target $560, named top CPU pick; Meta 6GW / MI450 deal; UK 2B-pound AI infra. Big catalyst: Advancing AI event 7/22-23. Too expensive for options at this account; expression = small FRACTIONAL starter on a PULLBACK, never the gap. No chase."
+    },
+    {
+      "when": "WATCHLIST - PSKY",
+      "body": "Paramount Skydance ~$10.47. DOJ cleared the $110B Warner Bros deal with no conditions. Next catalysts: EU merger decision 7/7, EU foreign-subsidy decision 7/14 (the ~$24B Gulf funding = wildcard). Cheap + optionable = weekly-sleeve candidate; defined-risk Aug $11/$12 call into the July dates, Timeout to size. Uncorrelated to the war book."
     },
     {
       "when": "FOMC WED 6/17",
-      "body": "Main card. 2nd $75 SPY core tranche AFTER the statement. No new options pre-FOMC unless AAL exits first."
+      "body": "Main mid-week card. 2nd $75 SPY core tranche planned AFTER the statement. No new options pre-FOMC unless AAL exits first."
     }
   ]
 }
