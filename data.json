@@ -1,11 +1,11 @@
 {
-  "updated": "LIVE 07/16, 03:53 PM ET (auto)",
+  "updated": "LIVE 07/16, 04:41 PM ET (auto)",
   "account": {
-    "value": "466.66",
+    "value": "467.57",
     "cash": "113.45",
     "bp": "113.45",
     "realized": "+73",
-    "wk1": "-6.7%"
+    "wk1": "-6.5%"
   },
   "positions": [
     {
@@ -13,8 +13,8 @@
       "sym": "INTC",
       "qty": "0.4376",
       "avg": "114.25",
-      "last": "95.94",
-      "pl": "-16.0%",
+      "last": "96.98",
+      "pl": "-15.1%",
       "cls": "down"
     },
     {
@@ -22,8 +22,8 @@
       "sym": "HOOD",
       "qty": "0.2883",
       "avg": "86.72",
-      "last": "106.46",
-      "pl": "+22.8%",
+      "last": "106.02",
+      "pl": "+22.3%",
       "cls": "up"
     },
     {
@@ -31,8 +31,8 @@
       "sym": "NU",
       "qty": "2.5210",
       "avg": "11.90",
-      "last": "13.76",
-      "pl": "+15.6%",
+      "last": "13.79",
+      "pl": "+15.9%",
       "cls": "up"
     },
     {
@@ -40,8 +40,8 @@
       "sym": "RGTI",
       "qty": "1.9418",
       "avg": "20.60",
-      "last": "13.99",
-      "pl": "-32.1%",
+      "last": "14.10",
+      "pl": "-31.6%",
       "cls": "down"
     },
     {
@@ -58,8 +58,8 @@
       "sym": "SPY",
       "qty": "0.1018",
       "avg": "736.41",
-      "last": "749.82",
-      "pl": "+1.8%",
+      "last": "750.72",
+      "pl": "+1.9%",
       "cls": "up"
     },
     {
@@ -67,8 +67,8 @@
       "sym": "NVDA",
       "qty": "0.2432",
       "avg": "205.56",
-      "last": "206.60",
-      "pl": "+0.5%",
+      "last": "207.40",
+      "pl": "+0.9%",
       "cls": "up"
     },
     {
@@ -85,20 +85,20 @@
   "watch": [
     {
       "sym": "AMD",
-      "last": "498.13",
-      "chg": -5.86,
+      "last": "500.94",
+      "chg": -5.33,
       "note": "AI long. BUY-ZONE $470-490 on a pullback (fractional ~$40, never the gap). POSITION INTO Advancing AI 7/22-23; trim BEFORE the event (sell-the-news risk). PT chatter $560-665."
     },
     {
       "sym": "PSKY",
-      "last": "9.20",
-      "chg": -0.59,
+      "last": "9.14",
+      "chg": -1.19,
       "note": "Merger re-rate. DOJ cleared $110B WBD deal. Defined-risk Aug $11/$12 call (Timeout). Catalysts: EU 7/7 + 7/14. Weekly-sleeve candidate, uncorrelated to the book."
     },
     {
       "sym": "LMT",
-      "last": "513.87",
-      "chg": -0.11,
+      "last": "513.52",
+      "chg": -0.18,
       "note": "WATCH ONLY. Record contracts (~$10B/2wks) but tape rejects them; peace = headwind; $540 too big for the account. Re-look only if peace collapses (then ITA, not LMT)."
     }
   ],
