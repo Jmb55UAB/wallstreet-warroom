@@ -1,11 +1,11 @@
 {
-  "updated": "LIVE 07/27, 01:26 PM ET (auto)",
+  "updated": "LIVE 07/27, 02:52 PM ET (auto)",
   "account": {
-    "value": "459.27",
+    "value": "460.50",
     "cash": "113.45",
     "bp": "113.45",
     "realized": "+73",
-    "wk1": "-8.1%"
+    "wk1": "-7.9%"
   },
   "positions": [
     {
@@ -13,8 +13,8 @@
       "sym": "INTC",
       "qty": "0.4376",
       "avg": "114.25",
-      "last": "89.57",
-      "pl": "-21.6%",
+      "last": "90.66",
+      "pl": "-20.7%",
       "cls": "down"
     },
     {
@@ -22,8 +22,8 @@
       "sym": "HOOD",
       "qty": "0.2883",
       "avg": "86.72",
-      "last": "94.22",
-      "pl": "+8.6%",
+      "last": "94.30",
+      "pl": "+8.7%",
       "cls": "up"
     },
     {
@@ -31,8 +31,8 @@
       "sym": "NU",
       "qty": "2.5210",
       "avg": "11.90",
-      "last": "14.45",
-      "pl": "+21.4%",
+      "last": "14.49",
+      "pl": "+21.8%",
       "cls": "up"
     },
     {
@@ -40,8 +40,8 @@
       "sym": "RGTI",
       "qty": "1.9418",
       "avg": "20.60",
-      "last": "15.10",
-      "pl": "-26.7%",
+      "last": "15.15",
+      "pl": "-26.5%",
       "cls": "down"
     },
     {
@@ -49,8 +49,8 @@
       "sym": "SOFI",
       "qty": "2.4287",
       "avg": "16.47",
-      "last": "16.95",
-      "pl": "+2.9%",
+      "last": "16.91",
+      "pl": "+2.7%",
       "cls": "up"
     },
     {
@@ -58,17 +58,17 @@
       "sym": "SPY",
       "qty": "0.1018",
       "avg": "736.41",
-      "last": "736.29",
-      "pl": "b/e",
-      "cls": "flat"
+      "last": "738.26",
+      "pl": "+0.3%",
+      "cls": "up"
     },
     {
       "t": "NVDA",
       "sym": "NVDA",
       "qty": "0.2432",
       "avg": "205.56",
-      "last": "195.55",
-      "pl": "-4.9%",
+      "last": "197.20",
+      "pl": "-4.1%",
       "cls": "down"
     },
     {
@@ -85,20 +85,20 @@
   "watch": [
     {
       "sym": "AMD",
-      "last": "479.20",
-      "chg": -8.19,
+      "last": "485.82",
+      "chg": -6.92,
       "note": "AI long. BUY-ZONE $470-490 on a pullback (fractional ~$40, never the gap). POSITION INTO Advancing AI 7/22-23; trim BEFORE the event (sell-the-news risk). PT chatter $560-665."
     },
     {
       "sym": "PSKY",
-      "last": "8.04",
-      "chg": -2.13,
+      "last": "7.92",
+      "chg": -3.47,
       "note": "Merger re-rate. DOJ cleared $110B WBD deal. Defined-risk Aug $11/$12 call (Timeout). Catalysts: EU 7/7 + 7/14. Weekly-sleeve candidate, uncorrelated to the book."
     },
     {
       "sym": "LMT",
-      "last": "583.12",
-      "chg": 0.09,
+      "last": "583.36",
+      "chg": 0.13,
       "note": "WATCH ONLY. Record contracts (~$10B/2wks) but tape rejects them; peace = headwind; $540 too big for the account. Re-look only if peace collapses (then ITA, not LMT)."
     }
   ],
