@@ -1,11 +1,11 @@
 {
-  "updated": "LIVE 08/05, 05:39 PM ET (auto)",
+  "updated": "LIVE 08/06, 11:03 AM ET (auto)",
   "account": {
-    "value": "479.56",
+    "value": "479.99",
     "cash": "113.45",
     "bp": "113.45",
     "realized": "+73",
-    "wk1": "-4.1%"
+    "wk1": "-4.0%"
   },
   "positions": [
     {
@@ -13,8 +13,8 @@
       "sym": "INTC",
       "qty": "0.4376",
       "avg": "114.25",
-      "last": "101.06",
-      "pl": "-11.5%",
+      "last": "101.73",
+      "pl": "-11.0%",
       "cls": "down"
     },
     {
@@ -22,8 +22,8 @@
       "sym": "HOOD",
       "qty": "0.2883",
       "avg": "86.72",
-      "last": "92.80",
-      "pl": "+7.0%",
+      "last": "91.86",
+      "pl": "+5.9%",
       "cls": "up"
     },
     {
@@ -49,8 +49,8 @@
       "sym": "SOFI",
       "qty": "2.4287",
       "avg": "16.47",
-      "last": "18.25",
-      "pl": "+10.8%",
+      "last": "18.41",
+      "pl": "+11.8%",
       "cls": "up"
     },
     {
@@ -91,14 +91,14 @@
     },
     {
       "sym": "PSKY",
-      "last": "8.76",
-      "chg": 4.53,
+      "last": "9.15",
+      "chg": 4.51,
       "note": "Merger re-rate. DOJ cleared $110B WBD deal. Defined-risk Aug $11/$12 call (Timeout). Catalysts: EU 7/7 + 7/14. Weekly-sleeve candidate, uncorrelated to the book."
     },
     {
       "sym": "LMT",
-      "last": "577.60",
-      "chg": -1.99,
+      "last": "579.37",
+      "chg": 0.31,
       "note": "WATCH ONLY. Record contracts (~$10B/2wks) but tape rejects them; peace = headwind; $540 too big for the account. Re-look only if peace collapses (then ITA, not LMT)."
     }
   ],
