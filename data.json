@@ -1,7 +1,7 @@
 {
-  "updated": "LIVE 08/14, 04:00 PM ET (auto)",
+  "updated": "LIVE 08/14, 04:51 PM ET (auto)",
   "account": {
-    "value": "489.02",
+    "value": "489.05",
     "cash": "113.45",
     "bp": "113.45",
     "realized": "+73",
@@ -13,8 +13,8 @@
       "sym": "INTC",
       "qty": "0.4376",
       "avg": "114.25",
-      "last": "102.54",
-      "pl": "-10.2%",
+      "last": "102.50",
+      "pl": "-10.3%",
       "cls": "down"
     },
     {
@@ -22,7 +22,7 @@
       "sym": "HOOD",
       "qty": "0.2883",
       "avg": "86.72",
-      "last": "95.53",
+      "last": "95.56",
       "pl": "+10.2%",
       "cls": "up"
     },
@@ -31,8 +31,8 @@
       "sym": "NU",
       "qty": "2.5210",
       "avg": "11.90",
-      "last": "15.22",
-      "pl": "+27.9%",
+      "last": "15.23",
+      "pl": "+28.0%",
       "cls": "up"
     },
     {
@@ -58,7 +58,7 @@
       "sym": "SPY",
       "qty": "0.1018",
       "avg": "736.41",
-      "last": "776.30",
+      "last": "776.34",
       "pl": "+5.4%",
       "cls": "up"
     },
@@ -67,7 +67,7 @@
       "sym": "NVDA",
       "qty": "0.2432",
       "avg": "205.56",
-      "last": "225.12",
+      "last": "225.16",
       "pl": "+9.5%",
       "cls": "up"
     },
@@ -85,20 +85,20 @@
   "watch": [
     {
       "sym": "AMD",
-      "last": "514.42",
+      "last": "514.39",
       "chg": 6.5,
       "note": "AI long. BUY-ZONE $470-490 on a pullback (fractional ~$40, never the gap). POSITION INTO Advancing AI 7/22-23; trim BEFORE the event (sell-the-news risk). PT chatter $560-665."
     },
     {
       "sym": "PSKY",
       "last": "10.14",
-      "chg": 1.76,
+      "chg": 1.71,
       "note": "Merger re-rate. DOJ cleared $110B WBD deal. Defined-risk Aug $11/$12 call (Timeout). Catalysts: EU 7/7 + 7/14. Weekly-sleeve candidate, uncorrelated to the book."
     },
     {
       "sym": "LMT",
-      "last": "608.62",
-      "chg": 1.77,
+      "last": "608.68",
+      "chg": 1.78,
       "note": "WATCH ONLY. Record contracts (~$10B/2wks) but tape rejects them; peace = headwind; $540 too big for the account. Re-look only if peace collapses (then ITA, not LMT)."
     }
   ],
