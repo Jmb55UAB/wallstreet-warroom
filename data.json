@@ -1,7 +1,7 @@
 {
-  "updated": "LIVE 08/25, 04:14 PM ET (auto)",
+  "updated": "LIVE 08/25, 04:51 PM ET (auto)",
   "account": {
-    "value": "481.05",
+    "value": "481.08",
     "cash": "113.45",
     "bp": "113.45",
     "realized": "+73",
@@ -31,8 +31,8 @@
       "sym": "NU",
       "qty": "2.5210",
       "avg": "11.90",
-      "last": "15.13",
-      "pl": "+27.1%",
+      "last": "15.14",
+      "pl": "+27.2%",
       "cls": "up"
     },
     {
@@ -58,7 +58,7 @@
       "sym": "SPY",
       "qty": "0.1018",
       "avg": "736.41",
-      "last": "765.85",
+      "last": "765.91",
       "pl": "+4.0%",
       "cls": "up"
     },
@@ -97,8 +97,8 @@
     },
     {
       "sym": "LMT",
-      "last": "556.58",
-      "chg": -1.34,
+      "last": "556.52",
+      "chg": -1.35,
       "note": "WATCH ONLY. Record contracts (~$10B/2wks) but tape rejects them; peace = headwind; $540 too big for the account. Re-look only if peace collapses (then ITA, not LMT)."
     }
   ],
